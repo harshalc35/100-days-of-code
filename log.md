@@ -28,3 +28,10 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 0: January 2, 2017 
+
+**Today's Progress**: Worked on Python Pandas Lib. Learned about Series and DataFrame. Implemented Operations on Series and Dataframes
+
+**Thoughts:** First day of the challenge. Feeling bit odd let's see how it goes.
