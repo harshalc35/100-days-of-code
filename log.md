@@ -35,3 +35,10 @@
 **Today's Progress**: Worked on Python Pandas Lib. Learned about Series and DataFrame. Implemented Operations on Series and Dataframes
 
 **Thoughts:** First day of the challenge. Feeling bit odd let's see how it goes.
+
+
+### Day 1: January 3, 2017
+
+**Today's Progress**: Worked further with Python Pandas Lib. Learned to take File input in python as DataFrames. Implemented set of operatations on SF Salaries Dataset from Kaggle.
+
+**Thoughts**: Pandas will require more practise on different datasets, further to test my ability to work with Pandas and handling large data.
