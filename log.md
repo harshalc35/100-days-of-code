@@ -42,3 +42,10 @@
 **Today's Progress**: Worked further with Python Pandas Lib. Learned to take File input in python as DataFrames. Implemented set of operatations on SF Salaries Dataset from Kaggle.
 
 **Thoughts**: Pandas will require more practise on different datasets, further to test my ability to work with Pandas and handling large data.
+
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: Slow progress today taking my time to understand Pandas Lib. Worked further more on SF salaries Dataset.
+
+**Thoughts**: Today's session was short as occupied in other work. More work needs to be done in upcoming days.
