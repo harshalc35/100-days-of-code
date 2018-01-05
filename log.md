@@ -49,3 +49,10 @@
 **Today's Progress**: Slow progress today taking my time to understand Pandas Lib. Worked further more on SF salaries Dataset.
 
 **Thoughts**: Today's session was short as occupied in other work. More work needs to be done in upcoming days.
+
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Took on a new dummy Amazon Purchase dataset to practice operations using Pandas. Understood Pandas in brief today.
+
+**Thoughts**: Today's session was on point and precise. Using Pandas feels easier now.
